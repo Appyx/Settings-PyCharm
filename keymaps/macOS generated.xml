@@ -127,6 +127,7 @@
   <action id="ShowProjectStructureSettings">
     <keyboard-shortcut first-keystroke="meta #10000f6" />
   </action>
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="ZoomCurrentWindow">
     <keyboard-shortcut first-keystroke="ctrl meta #10000b4" />
   </action>
